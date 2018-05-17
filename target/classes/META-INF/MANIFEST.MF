@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: sbd_5_mongo_redis
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rushikeshM
+Implementation-Vendor-Id: netmagic.com
+Build-Jdk: 1.8.0_45
+Implementation-URL: http://projects.spring.io/spring-boot/sbd_5_mongo_
+ redis/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

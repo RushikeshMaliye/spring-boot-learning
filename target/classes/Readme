@@ -1,0 +1,26 @@
+ Procedure to create this project
+ 
+ Step 1: File -> New -> Maven Project
+ 
+ Step 2: Add existed lines to pom.xml
+ 
+ Step 3: Create Application.java as Entry point for project
+
+ Step 4: Create User.java for User Data
+ 	
+ Step 5: Create UserController.java for Mapping With Http requests
+		
+ Step 6: Create UserService.java for Business Logic
+ 
+ Step 7: Create All Exception Related Classes 
+ 
+ Step 8: Create Mongo Related Config and Repository Classes
+ 
+ Step 9: Add Mongo configuration in application.properties file
+ 
+ Step 10 : Run As Java Application
+ 
+ Step 11: Spring Boot will start embedded TomcatWebServer on port 8080
+ 
+ Step 12: hit on browser http://localhost:8080/users and remaining POST PUT DELETE
+ 
